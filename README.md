@@ -43,11 +43,11 @@ Reimagine something from a Stage 4 sketch as a living entity or an environment.
 *Hearing Interactivity, I'm reminded of all the images and information shown to me throughout my day.  A lot of the information I don't want to see, but it is hard not to be forced to see images and ads everywhere.  I thought of the OVERACTIVITY of all the images on random.  We are overloaded with ideas, images, and information every few seconds in life.*  
 
 ### 🟩 Stage 3
-- Name/Alias:
+- Name/Alias:Cona Cheng
 - Github account:
 - Published webpage for stage 3:
 
-*... comments to be added here*
+This collage-like artwork gives people a sense of diversity. If you look closely, you can find many styles of art schools from different periods, just like gathering together the testimony of time to art. I enlarged the size of the checkbox to make it easier for users to find it among the complex elements. I also enlarged the text that looks like garbled code at the beginning and changed it to a striking yellow. It's like a beach. In the initial accumulation, give time a blank space, and then wait for the text to disappear, just like the waves of time washing away the beach text, drowning and disappearing.
 
 ### 🟦 Stage 4
 - Name/Alias:

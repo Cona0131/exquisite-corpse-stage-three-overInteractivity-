@@ -45,7 +45,7 @@ Reimagine something from a Stage 4 sketch as a living entity or an environment.
 ### 🟩 Stage 3
 - Name/Alias:Cona Cheng
 - Github account:https://github.com/Cona0131
-- Published webpage for stage 3:
+- Published webpage for stage 3:https://cona0131.github.io/exquisite-corpse-stage-three-overInteractivity-/
 
 This collage-like artwork gives people a sense of diversity. If you look closely, you can find many styles of art schools from different periods, just like gathering together the testimony of time to art. I enlarged the size of the checkbox to make it easier for users to find it among the complex elements. I also enlarged the text that looks like garbled code at the beginning and changed it to a striking yellow. It's like a beach. In the initial accumulation, give time a blank space, and then wait for the text to disappear, just like the waves of time washing away the beach text, drowning and disappearing.
 
